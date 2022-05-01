@@ -15,6 +15,9 @@ d) Devtool friendly – using Provider, the state of your application will be vi
 e) A common way to consume these InheritedWidgets
 increased scalability for classes with a listening mechanism that grows exponentially in complexity (such as ChangeNotifier, which is O(N) for dispatching notifications).
 
+# Demo
+![Alt text](https://github.com/quicklearner4991/quicklearner4991-flutter_provider_example/blob/main/ezgif.com-video-to-gif-2.gif "Provider Example")
+
 
 # STEP 1 : Add this in pubspec file in dependency section to add provider library to your project
 ```
