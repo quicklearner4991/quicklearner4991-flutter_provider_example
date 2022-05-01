@@ -34,7 +34,7 @@ provider: ^6.0.2
       );
       
       }
-      ```
+ ```
       
       
 # Step 3 : Create provider class and code as per your requirement , extend the class with ChangeNotifier
